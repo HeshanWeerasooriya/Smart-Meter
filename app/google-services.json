@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "549686401339",
+    "firebase_url": "https://smart-metering-system-998bc-default-rtdb.firebaseio.com",
+    "project_id": "smart-metering-system-998bc",
+    "storage_bucket": "smart-metering-system-998bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549686401339:android:e3749087b53ffcaf57bf1e",
+        "android_client_info": {
+          "package_name": "com.example.smart_meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549686401339-5qo6l3jsu54irsf0r2qq7ijuk073qmsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRWPDfJPBSweuDupUIs3KbtMI3I3qdnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549686401339-5qo6l3jsu54irsf0r2qq7ijuk073qmsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549686401339:android:4277fddae9fa7de457bf1e",
+        "android_client_info": {
+          "package_name": "com.example.smartmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549686401339-5qo6l3jsu54irsf0r2qq7ijuk073qmsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRWPDfJPBSweuDupUIs3KbtMI3I3qdnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549686401339-5qo6l3jsu54irsf0r2qq7ijuk073qmsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549686401339:android:a2e94edafd75a2c057bf1e",
+        "android_client_info": {
+          "package_name": "ncr.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549686401339-5qo6l3jsu54irsf0r2qq7ijuk073qmsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRWPDfJPBSweuDupUIs3KbtMI3I3qdnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549686401339-5qo6l3jsu54irsf0r2qq7ijuk073qmsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
